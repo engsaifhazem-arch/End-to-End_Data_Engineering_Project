@@ -1,4 +1,4 @@
-# 📄 Olist Data Engineering Project – ETL Documentation
+#  Olist Data Engineering Project – ETL Documentation
 
 ## 1. ETL Overview
 
